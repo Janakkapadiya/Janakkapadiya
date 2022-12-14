@@ -21,7 +21,7 @@
 <h3 align="left">*****</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janakkapadiya&show_icons=true&locale=en&layout=compact" alt="janakkapadiya" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janakkapadiya&show_icons=true&locale=en" alt="janakkapadiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakkapadiya&" alt="janakkapadiya" /></p>
