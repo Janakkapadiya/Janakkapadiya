@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janak kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janak kapadiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/janak-kapadiya-770385165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janak kapadiya" height="30" width="40" /></a>
 <a href="https://instagram.com/janak kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janak kapadiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rj-kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rj-kapadiya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jaykapadiya8899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaykapadiya8899" height="30" width="40" /></a>
